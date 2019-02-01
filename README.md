@@ -2,7 +2,7 @@
 
 Easily add the ability to tag your Eloquent models in Laravel 5.
 
-> **NOTE**: These instructions are for Laravel 5.7.  If you are using Laravel 5.6, please
+> **NOTE**: These instructions are for Laravel 5.7.  If you are using Laravel 5.6, please 
 > see the [previous version docs](https://github.com/cviebrock/eloquent-taggable/tree/3.3).
 
 [![Build Status](https://travis-ci.org/cviebrock/eloquent-taggable.svg?branch=master&format=flat)](https://travis-ci.org/cviebrock/eloquent-taggable)
